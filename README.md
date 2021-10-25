@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-                    - Phone number: +387 61 439 126
+                    - Phone number: +387 60 302 7787
                     - Discord: Nije_Nista#7133
                     - WickrMe: dz1ber
                     
